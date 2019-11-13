@@ -1,0 +1,1 @@
+This project is to recreate a website page using HTML and CSS.
